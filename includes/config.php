@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
 define('DB_HOST','us-cdbr-east-06.cleardb.net');
-define('DB_USER','b0c9eefa76cf40');
-define('DB_PASS','9f36c759');
-define('DB_NAME','heroku_fc791cf7afe1e29');
+define('DB_USER','b23163f85aee3f');
+define('DB_PASS','f71b7fdd');
+define('DB_NAME','heroku_5751087e28fe897');
 // Establish database connection.
 try
 {
